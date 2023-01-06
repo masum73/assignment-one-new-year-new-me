@@ -1,5 +1,6 @@
 /* font added */
 @import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap');
+
 /* global style */
 * {
     margin: 0;
@@ -43,4 +44,56 @@
     border-style: none;
     padding: 20px 25px;
     margin-left: 1130px;
+}
+
+/* failures style */
+
+.failures-container {
+    display: flex;
+}
+
+.failures-image {
+    width: 569px;
+    height: 723.3px;
+    margin-left: 206px;
+    margin-right: 87px;
+}
+
+.failures {
+    text-align: left;
+    width: 416px;
+    height: 400px;
+    margin-top: 200px;
+}
+
+.failures-title {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-bottom: 24px;
+}
+
+.failures-description {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-bottom: 16px;
+}
+
+li{
+    list-style: none;
+}
+
+ul{
+    padding-left: 15px;
+}
+
+i{
+    color: green;
+}
+
+.failures-section{
+    margin-bottom: 130px;
 }
