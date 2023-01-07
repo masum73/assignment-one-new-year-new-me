@@ -1,5 +1,5 @@
 /* font added */
-@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700&display=swap');
 
 /* global style */
 * {
@@ -172,7 +172,7 @@ i {
     font-weight: 700;
     font-size: 40px;
     line-height: 47px;
-    color: black;
+    color: #FFFFFF;
     padding-top: 50px;
     margin-left: 64px;
     margin-bottom: 5px;
