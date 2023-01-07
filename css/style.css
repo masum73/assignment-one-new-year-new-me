@@ -9,8 +9,9 @@
 
 /* banner style */
 
-.banner-container {
+header {
     background-image: url('../images/banner.png');
+    background-repeat: no-repeat;
     height: 800px;
     display: flex;
     margin-bottom: 130px;
@@ -82,18 +83,66 @@
     margin-bottom: 16px;
 }
 
-li{
+li {
     list-style: none;
 }
 
-ul{
+ul {
     padding-left: 15px;
 }
 
-i{
+i {
     color: green;
 }
 
-.failures-section{
+.failures-section {
+    margin-bottom: 130px;
+}
+
+/* plans style */
+
+.plans-container {
+    display: flex;
+    gap: 50px;
+}
+
+.plans {
+    padding: 10px;
+}
+
+.plans-heading {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-left: 450px;
+    margin-bottom: 50px;
+}
+
+.plans-image {
+    display: block;
+    margin: auto;
+}
+
+.plans-title {
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 35px;
+    text-align: center;
+    color: #151414;
+    margin-bottom: 16px;
+}
+
+.plans-description {
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 29px;
+    text-align: center;
+    color: #737272;
+}
+
+.plans-section {
+    margin-left: 230px;
+    margin-right: 230px;
     margin-bottom: 130px;
 }
