@@ -7,7 +7,7 @@
     font-family: 'Work Sans', sans-serif;
 }
 
-/* banner style */
+/* banner section style */
 
 header {
     background-image: url('../images/banner.png');
@@ -18,6 +18,8 @@ header {
 }
 
 .banner-title {
+    width: 525px;
+    height: 228px;
     font-weight: 700;
     font-size: 65px;
     text-align: right;
@@ -27,6 +29,8 @@ header {
 }
 
 .banner-description {
+    width: 494px;
+    height: 78px;
     font-weight: 400;
     font-size: 16px;
     line-height: 26px;
@@ -47,7 +51,7 @@ header {
     margin-left: 1130px;
 }
 
-/* failures style */
+/* failures section style */
 
 .failures-container {
     display: flex;
@@ -99,7 +103,7 @@ i {
     margin-bottom: 130px;
 }
 
-/* plans style */
+/* plans section style */
 
 .plans-container {
     display: flex;
@@ -147,7 +151,7 @@ i {
     margin-bottom: 130px;
 }
 
-/* contact styles */
+/* contact section styles */
 
 .btn-call {
     width: 160px;
@@ -188,7 +192,7 @@ i {
     border-radius: 8px;
 }
 
-/* footer style  */
+/* footer section style  */
 
 footer {
     width: 1600px;
@@ -285,7 +289,7 @@ footer {
     margin-top: 36px;
 }
 
-/* hobby section */
+/* hobby section style */
 
 .hobby-section{
     width: 1600px;
