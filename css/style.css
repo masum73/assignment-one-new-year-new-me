@@ -35,7 +35,7 @@ header {
     margin: 0px 230px 30px 876px;
 }
 
-.btn {
+.btn-contact {
     width: 160px;
     height: 64px;
     font-weight: 600;
@@ -145,4 +145,44 @@ i {
     margin-left: 230px;
     margin-right: 230px;
     margin-bottom: 130px;
+}
+
+/* contact styles */
+
+.btn-call {
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    color: #005FAC;
+    border-radius: 5px;
+    border-style: none;
+    padding: 20px 25px;
+    margin-top: 50px;
+    margin-left: 64px;
+}
+
+.contact-title {
+    width: 459px;
+    height: 94px;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #FFFFFF;
+    padding-top: 50px;
+    margin-left: 64px;
+    margin-bottom: 24px;
+}
+
+.contact-container {
+    width: 459px;
+    height: 300px;
+}
+
+.contact-section {
+    background-image: url('../images/watch.png');
+    background-repeat: no-repeat;
+    margin-left: 180px;
+    margin-bottom: 130px;
+    border-radius: 8px;
 }
