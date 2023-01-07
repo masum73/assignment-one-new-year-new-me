@@ -186,3 +186,100 @@ i {
     margin-bottom: 130px;
     border-radius: 8px;
 }
+
+/* footer style  */
+
+footer {
+    width: 1600px;
+    height: 577px;
+    background: #151414;
+}
+
+.footer-container {
+    display: flex;
+    width: 1600px;
+    justify-content: space-between;
+}
+
+.future {
+    width: 485px;
+    height: 350px;
+    margin-top: 130px;
+    margin-left: 230px;
+}
+
+.future-title {
+    margin-bottom: 16px;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 53px;
+    color: #F8F8F8;
+}
+
+.future-description {
+    width: 485px;
+    height: 78px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    margin-bottom: 24px;
+}
+
+.future-email {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    margin-bottom: 16px;
+}
+
+.future-phone {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #FFFFFF;
+    margin-bottom: 32px;
+}
+
+.future-icon {
+    height: 46px;
+}
+
+.subscribe-title {
+    margin-bottom: 31px;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.subscribe {
+    width: 500px;
+    height: 204px;
+    margin: 130px 230px 243px 500px;
+}
+
+#email {
+    width: 250px;
+    height: 64px;
+    border: 2px solid white;
+    border-radius: 5px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    color: #F3F3F3;
+    padding-left: 20px;
+}
+
+.btn-subscribe {
+    width: 170.11px;
+    height: 64px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    color: #FFFFFF;
+    background-color: #005FAC;
+    border-radius: 10px;
+    margin-top: 36px;
+}
