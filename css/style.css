@@ -283,3 +283,47 @@ footer {
     border-radius: 10px;
     margin-top: 36px;
 }
+
+/* hobby section */
+
+.hobby-section{
+    width: 1600px;
+    margin-bottom: 50px;
+}
+
+.hobby-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.hobby-image{
+   width: 400px;
+   margin: 50px 200px;
+}
+
+.hobby{
+    margin-top: 100px;
+    margin-right: 200px;
+}
+
+.hobby-title{
+    font-size: 30px;
+}
+
+.hobby-description{
+    font-size: 20px;
+    margin-top: 10px;
+    color: #737272;
+}
+.hobby-heading {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: #151414;
+    margin-left: 670px;
+    margin-bottom: 50px;
+}
+.movie{
+    margin-top: 100px;
+    margin-left: 200px;
+}
